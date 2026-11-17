@@ -12,3 +12,6 @@ ahora estoy probando el editor de archios  vim.
 probando los comandos de git diff 
 
 color del texto =azul
+
+tipo de fuente: arial 
+
