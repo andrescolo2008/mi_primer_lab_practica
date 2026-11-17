@@ -10,3 +10,5 @@ ahora estoy probando el editor de archios  vim.
 5. esc para salir  del modo de edicion e introducir los comandos previos
 
 probando los comandos de git diff 
+
+color del texto =azul
