@@ -9,4 +9,6 @@ ahora estoy probando el editor de archios  vim.
 4. :w guardar    - :p salir (antes de salir veirifcar que se hayan guardado los cambios )  - :x  o    zz guardar y salir solo si se hicieron cambios ---  :q!  salir sin guardar
 5. esc para salir  del modo de edicion e introducir los comandos previos
 
-probando los comandos de git diff 
+probando los comandos de git diff
+
+tipo de fuente: arial 
