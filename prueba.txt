@@ -16,3 +16,4 @@ color del texto =azul
 tipo de fuente: arial 
 
 esta linea va a servir para practicar los cambios que se le hagan al repositorio y subirlos a git hub
+esta linea es la que estoy editando en github, para hace pull al repositorio de mi computador
