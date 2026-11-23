@@ -1,1 +1,1 @@
- este commit es para practicar la creacion de ramas y push 
+echo "¡Hola DevOps! Mi script se ejecuto correctamente"
